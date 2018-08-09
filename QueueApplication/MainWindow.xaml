@@ -1,0 +1,22 @@
+﻿<Window x:Class="QueueApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="664.007">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="146*"/>
+            <RowDefinition Height="173*"/>
+        </Grid.RowDefinitions>
+        <Label Content="" HorizontalAlignment="Left" Margin="69,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label1"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="261,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label4"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="197,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label3"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="133,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label2"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="517,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label8"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="453,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label7"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="389,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label6"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="325,10,0,0" VerticalAlignment="Top" Height="65" Width="64" BorderBrush="Black" BorderThickness="2" x:Name="label5"/>
+        <Button Content="Create" HorizontalAlignment="Left" Margin="69,114,0,0" VerticalAlignment="Top" Width="89" FontFamily="Arial" Height="34" Grid.RowSpan="2" FontSize="14" Click="Button_Click" x:Name="btnCriar"/>
+        <Button Content="Process" HorizontalAlignment="Left" Margin="197,114,0,0" VerticalAlignment="Top" Width="89" FontFamily="Arial" Height="34" Grid.RowSpan="2" FontSize="14" x:Name="btnProcessar" Click="btnProcessar_Click"/>
+        <ListBox HorizontalAlignment="Left" Height="154" Margin="389,134,0,0" VerticalAlignment="Top" Width="192" Grid.RowSpan="2" x:Name="listNumbers"/>
+    </Grid>
+</Window>

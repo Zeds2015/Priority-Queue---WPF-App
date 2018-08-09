@@ -1,0 +1,15 @@
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\bin\Debug\QueueApplication.exe.config
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\bin\Debug\QueueApplication.exe
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\bin\Debug\QueueApplication.pdb
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\QueueApplication.csprojResolveAssemblyReference.cache
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\MainWindow.baml
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\MainWindow.g.cs
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\App.g.cs
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\QueueApplication_MarkupCompile.cache
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\QueueApplication.g.resources
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\QueueApplication.Properties.Resources.resources
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\QueueApplication.csproj.GenerateResource.Cache
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\QueueApplication.exe
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\obj\Debug\QueueApplication.pdb
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\bin\Debug\QueueApplication.Common.dll
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication\bin\Debug\QueueApplication.Common.pdb

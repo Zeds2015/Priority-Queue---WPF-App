@@ -1,0 +1,4 @@
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication.Common\bin\Debug\QueueApplication.Common.dll
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication.Common\bin\Debug\QueueApplication.Common.pdb
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication.Common\obj\Debug\QueueApplication.Common.dll
+c:\users\2016101383\documents\visual studio 2013\Projects\QueueApplication\QueueApplication.Common\obj\Debug\QueueApplication.Common.pdb
